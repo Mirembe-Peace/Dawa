@@ -1,6 +1,6 @@
-# DAWA – Smart Medical Dispensing Machine (Prototype 1)**
+# **DAWA – Smart Medical Dispensing Machine (Prototype 1)**
 
-
+![imgalt](https://github.com/Mirembe-Peace/Dawa/blob/bfe053dd1b91a3e666a54c6b3f6f4c3c5fed8746/freepik__the-style-is-candid-image-photography-with-natural__73633.png)
 
 ## **1. Project Overview**
 
